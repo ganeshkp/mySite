@@ -40,6 +40,7 @@
   filter:hue-rotate(0deg);
   color: linear-gradient(45deg,#0f8,#08f);
   animation:hue 5000ms infinite linear;
+  background-color: green;
 }
 
 @keyframes spinify {
